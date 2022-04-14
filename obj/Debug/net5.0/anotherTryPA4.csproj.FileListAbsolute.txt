@@ -1,0 +1,15 @@
+/Users/jakeyfrench/anotherTryPA4/bin/Debug/net5.0/anotherTryPA4.deps.json
+/Users/jakeyfrench/anotherTryPA4/bin/Debug/net5.0/anotherTryPA4.runtimeconfig.json
+/Users/jakeyfrench/anotherTryPA4/bin/Debug/net5.0/anotherTryPA4.runtimeconfig.dev.json
+/Users/jakeyfrench/anotherTryPA4/bin/Debug/net5.0/anotherTryPA4.dll
+/Users/jakeyfrench/anotherTryPA4/bin/Debug/net5.0/ref/anotherTryPA4.dll
+/Users/jakeyfrench/anotherTryPA4/bin/Debug/net5.0/anotherTryPA4.pdb
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/anotherTryPA4.csproj.AssemblyReference.cache
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/anotherTryPA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/anotherTryPA4.AssemblyInfoInputs.cache
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/anotherTryPA4.AssemblyInfo.cs
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/anotherTryPA4.csproj.CoreCompileInputs.cache
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/anotherTryPA4.dll
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/ref/anotherTryPA4.dll
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/anotherTryPA4.pdb
+/Users/jakeyfrench/anotherTryPA4/obj/Debug/net5.0/anotherTryPA4.genruntimeconfig.cache
